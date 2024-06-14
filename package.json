@@ -9,6 +9,7 @@
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts test",
     "eject": "react-scripts eject"
+  }
   },
   "author": "",
   "license": "ISC",
